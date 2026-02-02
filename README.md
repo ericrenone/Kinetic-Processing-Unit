@@ -8,7 +8,8 @@ Lightweight, research-grade Python library for computing **novelty and informati
 
 # LLM Informational Novelty
 
-A minimal, production-ready framework for measuring **informational novelty** in LLM outputs. Provides a deterministic, model-relative score by analyzing internal signals.
+A minimal, production-ready framework for measuring **informational novelty** in LLM outputs. 
+Provides a deterministic, model-relative score by analyzing internal signals.
 
 ## Overview
 This metric answers: *How much new information does this text contain from the model’s own perspective?*
