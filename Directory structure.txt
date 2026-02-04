@@ -1,7 +1,0 @@
-identity-geometry/
-├── identity_geometry/
-│   ├── __init__.py
-│   ├── config.py
-│   ├── fisher.py
-│   ├── kl.py
-│   └── novelty.py
