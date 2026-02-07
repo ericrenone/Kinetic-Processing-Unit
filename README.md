@@ -1,6 +1,7 @@
 # FPGA Novelty Detection Accelerator
 
 **Target FPGA:** Gowin Tang Nano 9K
+
 **Logic:** Leaky Integrator Neuron + UART E2E Benchmark Echo
 
 ---
