@@ -41,9 +41,7 @@ The **novelty predicate** determines system output:
 
 ---
 
-# Novelty Detection System: Experimental Analysis
-
-Based on the experimental data and source code provided, the following conclusions can be drawn regarding the novelty detection system implemented on FPGA hardware.
+# Conclusions
 
 ## 1. Architectural Determinism
 
