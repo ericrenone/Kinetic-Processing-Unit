@@ -27,7 +27,7 @@ The system implements a **silicon-native leaky integrator** with a simplified st
 
 ---
 
-## 3. SOTA Thermodynamic & Energy Metrics
+## 3. Thermodynamic & Energy Metrics
 
 The project utilizes a **5x5x5 Burst Mode** (5 Seeds × 5 Parallel Instances × 25 Rounds) to quantify the **"Energy Efficiency Cliff"**:
 
