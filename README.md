@@ -89,7 +89,7 @@ To be scientifically rigorous, there are a few things this current version doesn
 
 ## 9. Conclusion
 
-- The deterministic low-jitter behavior of the FPGA enables tightly synchronized distributed anomaly detection with significantly lower energy overhead than CPU-based systems, suggesting potential advantages for future real-time edge learning architectures.
+# The deterministic low-jitter behavior of the FPGA enables tightly synchronized distributed anomaly detection with significantly lower energy overhead than CPU-based systems, suggesting potential advantages for future real-time edge learning architectures.
 
 ## 9. Quick Start
 
